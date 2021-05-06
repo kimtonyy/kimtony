@@ -1,0 +1,266 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: 0 ;
+padding: 0 }
+.logobrand{
+	width: 100px;
+}
+.navbar{
+	background: #110F0F;
+}
+.nav-link{
+	color: white!important;
+}
+
+
+.noidungseason1{
+	margin:100px 300px;		
+}
+.banner1{
+	background-image: url("pic/u2_state0.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	background-blend-mode: overlay;
+	height: 100vh;
+	color: white;	
+}
+.banner1 h1{
+	font-weight: 355;
+	padding-top: 30px;
+} 
+.linebanner1{
+	padding-top:20px; 
+}
+.textbanner1{
+	padding-top: 17px;
+}
+
+.buttonseason1{
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px 20px;
+	background: #fff0;
+	color: white;
+	font-weight: 200;
+	border:2px white solid;
+	margin-top: 20px;	
+}
+
+
+
+.noidungseason2{
+	padding: 10px 0;
+}
+.noidungseason2 p{
+	color: #878686
+}
+.icon{
+	margin-top: 15px;
+	color: #E5E5E5
+}
+#section3{
+	background:#E5E5E5  
+}
+.noidungseason3{
+	padding: 180px
+}
+#section3 p{
+	color:#878686;	
+}
+.textseason3{
+	margin-top: 55px;
+}
+.nuttab input{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	padding:50px 40px;
+	color: white;
+	border: none;
+	border-radius: 7%;
+	margin-top: 2px;	
+}
+.buttonden{
+    background: #110F0F;
+}
+.buttoncam{
+    background: #ff8b38;
+}
+.buttonseason3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	padding:10px 20px;
+	background: #ff8b38;
+	color: white;
+	border: none;
+	border-radius: 7%;
+	margin-top: 55px;
+}
+.picseason3{
+	margin-top: 70px;
+}
+#section4{
+	background: #D7D7D7;
+}
+.viengtron4{
+	width: 50px;
+	height: 50px;
+	border: solid #ff8b38;
+	border-radius: 50%;
+	color: #ff8b38;
+	display: inline-block;
+	margin-bottom: 20px;
+} 
+.noidungseason4{
+	padding: 100px 0;
+}
+#section5{
+	background: #E5E5E5}
+.noidungseason5{
+	padding: 100px 0;
+}
+#section6 p{
+	color:#878686;}
+.noidungseason6{
+	padding: 100px 0;
+}
+.textseason6{
+	padding-top: 50px
+}
+.viengtron6{
+	width: 50px;
+	height: 50px;
+	border: solid #ff8b38;
+	border-radius: 50%;
+	color: #ff8b38;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+#section7{
+	background: #E5E5E5}
+.noidungseason7{
+	padding: 100px 0;
+}
+.bang{
+	padding: 100px 0;}
+.price{
+  	list-style-type: none;
+  	margin: 0;	
+	text-align: center;
+	background-color:white;
+	padding:0 0 20px 0;
+	color:#878686;
+}
+
+.price p{background-color: #333333;
+	
+}
+.price .header {
+	font-family: 'Open Sans', sans-serif;
+  	background-color: #333333;
+  	color: white;
+  	font-size: 20px;
+	padding-top: 20px;
+	
+}
+.camm{background-color: #ff8b38;}
+.price .many{
+	font-family: 'Raleway', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	color: white;
+}
+.price li.nghieng{
+	font-style: italic;
+	font-size: 15px;}
+.banner8{
+	background-image: url("pic/u25_state0.png"),linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+	background-blend-mode: overlay;
+	background-size: cover;
+	height: 100%;
+	color: #E5E5E5;
+}
+.noidungseason8{
+	padding: 100px 0
+}
+#section9{
+	background: white;
+}
+.noidungseason9{
+	padding: 100px 0
+}
+.noidungfooter{
+	padding: 20px;
+	background: #110F0F;
+	color: #E5E5E5
+}
+.hihi{
+	border: none!important;
+	border-bottom: 1px solid gray!important;
+	width:350px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.haha{
+	border: none!important;
+	border-bottom: 1px solid gray!important;
+	width:350px;
+	padding-bottom: 125px;
+
+}
+
+
+
+
+
+@media screen and (max-width: 768px)
+{    p{font-size: 12px;}
+	h5{font-size: 12px!important}
+	.noidungseason1{
+		width: 65%;
+		margin-left: 3px;
+		margin-top: 5px;}
+	.logobanner1{
+		width: 0;}
+	.textbanner1{
+		font-size: 12px;
+		padding: 10px 0;}
+	.buttonseason1{
+		font-size: 12px;
+		width: 50% !important;
+		padding: 5px 10px;
+	}
+	.icon i{
+		font-size: 12px !important;
+		margin-left: 12px!important;
+		padding: 0px !important;
+	}
+	.noidungseason3{
+		padding-top: 25px;
+		padding-bottom: 20px
+	}
+	.buttonden{
+		padding:20px!important;
+		font-size: 15px;
+	}
+	.buttoncam{
+		padding:20px!important;
+		font-size: 15px;
+	}
+	.text3{
+		padding-top: 10px;
+	}
+	.textseason3{
+		margin-top: auto
+	}
+	.buttonseason3{
+		font-size: 12px;
+		width: 50% !important;
+		padding-top:10px!important;	
+	}
+	.noidungseason3 img{
+		padding-left: 30px
+	}
+	.picseason4{
+		width: 50% !important;
+	}
+}
+
+
